@@ -1,2 +1,7 @@
 # hello-world
-mystorageunit
+*mystorageunit*
+**determined**
+~~resilient~~ 
+>generous
+grateful
+---
